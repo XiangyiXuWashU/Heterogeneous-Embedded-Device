@@ -1,0 +1,1 @@
+-l"./configPkg/linker.cmd" "./app/queue.obj" "./app/message_loop.obj" "./app/ad_workshop.obj" "./codec/fft.obj" "./driver/uPP_Config.obj" "./driver/ring_buffer.obj" "./driver/ad9238.obj" "./ipc/message_heap.obj" "./ipc/ipc_ring_buffer.obj" "./main_dsp.obj" "../uPP.lib" -l"libc.a" 

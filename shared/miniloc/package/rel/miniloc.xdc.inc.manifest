@@ -1,0 +1,17 @@
+miniloc/Platform.xdc
+miniloc/Platform.xs
+miniloc/config.bld
+miniloc/package/.vers_b160
+miniloc/package/.vers_g180
+miniloc/package/.vers_r170
+miniloc/package/.xdc-z57
+miniloc/package/build.cfg
+miniloc/package/miniloc.ccs
+miniloc/package/miniloc.class
+miniloc/package/miniloc.java
+miniloc/package/miniloc.sch
+miniloc/package/package.bld.xml
+miniloc/package/package.defs.h
+miniloc/package/package_miniloc.c
+miniloc/package.bld
+miniloc/package.xdc

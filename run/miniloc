@@ -1,0 +1,5 @@
+#! /bin/sh
+
+cd /OMAPL138/run/
+sh run.sh &
+

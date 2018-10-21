@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="GBK"?>
+<!--  This file conforms to the DTD xdc/bld/build.dtd -->
+<package name="xconfig_dsp" version="" producerId="undefined">
+    <units>
+    </units>
+    <sources>
+        <srcFile name="package/cfg/dsp_pe674.c"/>
+    </sources>
+    <configscripts>
+        <srcFile name="Z:/MINILOC/OMAPL138/dsp/dsp.cfg"/>
+    </configscripts>
+    <makefiles>
+        <srcFile name="package.mak" src="package.bld"/>
+        <srcFile name="package/package.xdc.dep" src="package.xdc"/>
+        <srcFile name="package/cfg/dsp_pe674.mak" src="package.bld"/>
+        <srcFile name="package/cfg/dsp_pe674.oe674.dep" src="package/cfg/dsp_pe674.c"/>
+        <srcFile name="package/cfg/dsp_pe674.dep" src="package/cfg/dsp_pe674.cfg"/>
+        <srcFile name="package/cfg/dsp.xe674.mak" src="package.bld"/>
+        <srcFile name="package/rel/xconfig_dsp.tar.dep" src="package/rel/xconfig_dsp.xdc.inc"/>
+    </makefiles>
+    <targets>
+        <target name="ti.targets.elf.C674"
+            version="ti.targets.elf.C674{1,0,7.4,4"
+            rawVersion="7.4.4"
+            platform="ti.platforms.evmDA830"
+            isa="674"
+            suffix="e674"
+            rootDir="C:/ti/ccsv5/tools/compiler/c6000_7.4.4"
+            os="undefined"
+            rts="ti.targets.rts6000">
+            <model endian="little"
+                codeModel="undefined"
+                dataModel="undefined"/>
+        </target>
+    </targets>
+    <libraries>
+    </libraries>
+    <configurations>
+    <configuration name="dsp"
+        pname="dsp.pe674"
+        target="ti.targets.elf.C674"
+        platform="miniloc"
+        profile="release"
+        isPartial="false"
+        xCfgScript="package/cfg/dsp_pe674.cfg"
+        xCfgPrefix="package/cfg/dsp_pe674"
+        cfgScript="Z:/MINILOC/OMAPL138/dsp/dsp.cfg"
+        cfgArgs="null"
+        />
+    </configurations>
+    <executables>
+    <executable name="dsp"
+        pname="dsp.xe674"
+        target="ti.targets.elf.C674"
+        platform="miniloc"
+        profile="release"
+        xCfgScript="package/cfg/dsp_pe674.cfg"
+        xCfgPrefix="package/cfg/dsp_pe674"
+        cfgScript="Z:/MINILOC/OMAPL138/dsp/dsp.cfg"
+        cfgArgs="null"
+        />
+    </executables>
+    <tests>
+    <test exeName="dsp.xe674"
+        args=""
+        groupName="dsp.xe674"
+        refOutput="undefined"
+        refExitCode="0"
+        execArgs=""
+        />
+    </tests>
+    <releases relDir="package/rel/">
+    <release name="xconfig_dsp"
+        pname="xconfig_dsp.tar"
+        label="default"
+    >
+        <file name="package/package.bld.xml"/>
+        <file name="package/build.cfg"/>
+        <file name="package/package.xdc.inc"/>
+    </release>
+    </releases>
+    <repositories>
+    </repositories>
+</package>

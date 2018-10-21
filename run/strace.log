@@ -1,0 +1,33 @@
+1430  execve("/usr/bin/gdbserver", ["gdbserver"], [/* 14 vars */]) = 0
+1430  brk(0)                            = 0x3c000
+1430  uname({sys="Linux", node="tl", ...}) = 0
+1430  mmap2(NULL, 4096, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0xb6f91000
+1430  access("/etc/ld.so.preload", R_OK) = -1 ENOENT (No such file or directory)
+1430  open("/etc/ld.so.cache", O_RDONLY) = 3
+1430  fstat64(3, {st_mode=S_IFREG|0777, st_size=12921, ...}) = 0
+1430  mmap2(NULL, 12921, PROT_READ, MAP_PRIVATE, 3, 0) = 0xb6f8d000
+1430  close(3)                          = 0
+1430  open("/lib/libdl.so.2", O_RDONLY) = 3
+1430  read(3, "\177ELF\1\1\1\0\0\0\0\0\0\0\0\0\3\0(\0\1\0\0\0\374\210II4\0\0\0"..., 512) = 512
+1430  fstat64(3, {st_mode=S_IFREG|0755, st_size=11280, ...}) = 0
+1430  mmap2(0x49498000, 41136, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x49498000
+1430  mprotect(0x4949a000, 28672, PROT_NONE) = 0
+1430  mmap2(0x494a1000, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x1) = 0x494a1000
+1430  close(3)                          = 0
+1430  open("/lib/libc.so.6", O_RDONLY)  = 3
+1430  read(3, "\177ELF\1\1\1\0\0\0\0\0\0\0\0\0\3\0(\0\1\0\0\0<\327*I4\0\0\0"..., 512) = 512
+1430  fstat64(3, {st_mode=S_IFREG|0755, st_size=1197092, ...}) = 0
+1430  mmap2(0x49298000, 1230076, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x49298000
+1430  mprotect(0x493b8000, 28672, PROT_NONE) = 0
+1430  mmap2(0x493bf000, 12288, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x11f) = 0x493bf000
+1430  mmap2(0x493c2000, 9468, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS, -1, 0) = 0x493c2000
+1430  close(3)                          = 0
+1430  mmap2(NULL, 4096, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0xb6f8c000
+1430  set_tls(0xb6f8c4c0, 0xb6f8cb98, 0x49295050, 0xb6f8c4c0, 0x49295050) = 0
+1430  mprotect(0x493bf000, 8192, PROT_READ) = 0
+1430  mprotect(0x494a1000, 4096, PROT_READ) = 0
+1430  mprotect(0x49294000, 4096, PROT_READ) = 0
+1430  munmap(0xb6f8d000, 12921)         = 0
+1430  write(2, "Usage:\tgdbserver [OPTIONS] COMM "..., 477) = 477
+1430  exit_group(1)                     = ?
+1430  +++ exited with 1 +++

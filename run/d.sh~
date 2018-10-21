@@ -1,0 +1,6 @@
+#!/bin/sh 
+
+
+./slaveloader startup DSP ../dsp/Debug/MINILOC.out
+gdbserver 192.168.10.4:10000 ./../host/Debug/MINILOC
+

@@ -1,0 +1,34 @@
+miniloc.zip: Platform.xdc
+Platform.xdc:
+miniloc.zip: Platform.xs
+Platform.xs:
+miniloc.zip: config.bld
+config.bld:
+miniloc.zip: package/.vers_b160
+package/.vers_b160:
+miniloc.zip: package/.vers_g180
+package/.vers_g180:
+miniloc.zip: package/.vers_r170
+package/.vers_r170:
+miniloc.zip: package/.xdc-z57
+package/.xdc-z57:
+miniloc.zip: package/build.cfg
+package/build.cfg:
+miniloc.zip: package/miniloc.ccs
+package/miniloc.ccs:
+miniloc.zip: package/miniloc.class
+package/miniloc.class:
+miniloc.zip: package/miniloc.java
+package/miniloc.java:
+miniloc.zip: package/miniloc.sch
+package/miniloc.sch:
+miniloc.zip: package/package.bld.xml
+package/package.bld.xml:
+miniloc.zip: package/package.defs.h
+package/package.defs.h:
+miniloc.zip: package/package_miniloc.c
+package/package_miniloc.c:
+miniloc.zip: package.bld
+package.bld:
+miniloc.zip: package.xdc
+package.xdc:

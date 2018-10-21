@@ -1,0 +1,17 @@
+XDC_open() {
+    GEL_ProjectLoad("Z:/LIB/syslink_2_21_01_05/packages/ti/syslink/utils/rtos/bios6/package/ti.syslink.utils.rtos.bios6.pjt");
+    GEL_ProjectLoad("Z:/LIB/syslink_2_21_01_05/packages/ti/syslink/ipc/rtos/package/ti.syslink.ipc.rtos.pjt");
+    GEL_ProjectLoad("Z:/MINILOC/OMAPL138/dsp/Debug/configPkg/package/configPkg.pjt");
+    GEL_ProjectLoad("Z:/MINILOC/OMAPL138/dsp/Debug/configPkg/package/cfg/dsp_xe674.pjt");
+    GEL_ProjectSetActive("Z:/MINILOC/OMAPL138/dsp/Debug/configPkg/package/cfg/dsp_xe674.pjt");
+}
+XDC_close() {
+    GEL_ProjectClose("Z:/LIB/syslink_2_21_01_05/packages/ti/syslink/utils/rtos/bios6/package/ti.syslink.utils.rtos.bios6.pjt");
+    GEL_ProjectClose("Z:/LIB/syslink_2_21_01_05/packages/ti/syslink/ipc/rtos/package/ti.syslink.ipc.rtos.pjt");
+    GEL_ProjectClose("Z:/MINILOC/OMAPL138/dsp/Debug/configPkg/package/configPkg.pjt");
+    GEL_ProjectClose("Z:/MINILOC/OMAPL138/dsp/Debug/configPkg/package/cfg/dsp_xe674.pjt");
+}
+menuitem "XDC Package"
+hotmenu load_executable () { GEL_Load("Z:/MINILOC/OMAPL138/dsp/Debug/configPkg/dsp.xe674"); }
+hotmenu open_project () { XDC_open(); }
+hotmenu close_project () { XDC_close(); }

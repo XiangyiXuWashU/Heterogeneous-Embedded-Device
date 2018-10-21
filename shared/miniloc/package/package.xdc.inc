@@ -1,0 +1,13 @@
+package.xdc
+Platform.xdc
+Platform.xs
+package/miniloc.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b160
+package/.xdc-z57
+package/miniloc.java
+package/miniloc.class
+package/package_miniloc.c
+package/package.defs.h
+package/miniloc.ccs

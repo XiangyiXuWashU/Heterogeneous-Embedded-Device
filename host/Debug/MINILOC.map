@@ -1,0 +1,2088 @@
+Archive member included because of file (symbol)
+
+/home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+                              /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o (__libc_csu_init)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                              ./ipc/message_heap.o (SharedRegion_getHeap)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                              ./ipc/message_queue.o (MessageQ_setReplyQueue)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                              ./main.o (Ipc_control)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                              ./ipc/ring_buffer_host.o (RingIO_release)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                              ./ipc/ring_buffer_host.o (RingIOShm_Params_init)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (FrameQ_destroy)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (FrameQBufMgr_getHandle)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o) (ClientNotifyMgr_sendForceNotificationMulti)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (HeapMemMP_destroy)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (HeapBufMP_destroy)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o) (GateMP_getKnlHandle)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (SharedRegionDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o) (HeapBufMPDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o) (MessageQDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (IpcDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (FrameQDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o) (FrameQBufMgrDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o) (ClientNotifyMgrDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o) (RingIODrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o) (RingIOShmDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o) (HeapMemMPDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o) (GateMPDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (OsalProcess_getPid)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (GateMutex_create)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (Memory_getMaxDefaultTypeAlign)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (List_construct)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (String_cmp)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (NameServer_get)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o) (MultiProc_getNumProcessors)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (Gate_leaveSystem)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+                              ./main.o (SysLink_destroy)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o) (Cache_wbInv)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o) (NameServerDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o) (MultiProcDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o) (CacheDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o) (Dev_pollOpen)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o) (MemoryOS_free)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o) (OsalDrv_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o) (OsalMutex_leave)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (ProcMgr_setup)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o) (ProcMgrDrvUsr_close)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (FrameQ_isSupportedInterface)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o) (Notify_sendEvent)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (ListMP_destroy)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o) (NotifyDrvUsr_ioctl)
+/home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o) (ListMPDrv_ioctl)
+/home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+                              /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o) (__aeabi_uidivmod)
+/home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+                              ./app/sample_receiver.o (__aeabi_f2d)
+/home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+                              ./app/phone_command.o (__aeabi_d2iz)
+/home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+                              /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+samples             0x1000            ./app/sample_receiver.o
+Module              0x34              ./app/app.o
+wifisample          0x1004            ./app/sample_receiver.o
+NameServer_Object   0x4               /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 ./network/wifi.o
+ .note.GNU-stack
+                0x00000000        0x0 ./ipc/message_heap.o
+ .note.GNU-stack
+                0x00000000        0x0 ./ipc/message_queue.o
+ .note.GNU-stack
+                0x00000000        0x0 ./ipc/ring_buffer_host.o
+ .note.GNU-stack
+                0x00000000        0x0 ./app/app.o
+ .note.GNU-stack
+                0x00000000        0x0 ./app/controler.o
+ .note.GNU-stack
+                0x00000000        0x0 ./app/phone_command.o
+ .note.GNU-stack
+                0x00000000        0x0 ./app/sample_receiver.o
+ .note.GNU-stack
+                0x00000000        0x0 ./app/thread.o
+ .note.GNU-stack
+                0x00000000        0x0 ./main.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/libpthread.so
+START GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/../../lib/libpthread.so.0
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libpthread_nonshared.a
+END GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/libc.so
+START GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/../../lib/libc.so.6
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/../../lib/ld-linux.so.3
+END GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/librt.so
+LOAD ./network/wifi.o
+LOAD ./ipc/message_heap.o
+LOAD ./ipc/message_queue.o
+LOAD ./ipc/ring_buffer_host.o
+LOAD ./app/app.o
+LOAD ./app/controler.o
+LOAD ./app/phone_command.o
+LOAD ./app/sample_receiver.o
+LOAD ./app/thread.o
+LOAD ./main.o
+LOAD /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/../../../../arm-arago-linux-gnueabi/lib/arm-arago-linux-gnueabi/4.5.3/libgcc_s.so
+START GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/../../../../arm-arago-linux-gnueabi/lib/arm-arago-linux-gnueabi/4.5.3/libgcc_s.so.1
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a
+END GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/libc.so
+START GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/../../lib/libc.so.6
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/../../lib/ld-linux.so.3
+END GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/../../../../arm-arago-linux-gnueabi/lib/arm-arago-linux-gnueabi/4.5.3/libgcc_s.so
+START GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/../../../../arm-arago-linux-gnueabi/lib/arm-arago-linux-gnueabi/4.5.3/libgcc_s.so.1
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a
+END GROUP
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtend.o
+LOAD /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crtn.o
+                0x00008000                PROVIDE (__executable_start, 0x8000)
+                0x00008134                . = (0x8000 + SIZEOF_HEADERS)
+
+.interp         0x00008134       0x13
+ *(.interp)
+ .interp        0x00008134       0x13 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+
+.note.ABI-tag   0x00008148       0x20
+ .note.ABI-tag  0x00008148       0x20 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00008168      0x194
+ *(.hash)
+ .hash          0x00008168      0x194 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000082fc      0x3e0
+ *(.dynsym)
+ .dynsym        0x000082fc      0x3e0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+
+.dynstr         0x000086dc      0x323
+ *(.dynstr)
+ .dynstr        0x000086dc      0x323 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+
+.gnu.version    0x00008a00       0x7c
+ *(.gnu.version)
+ .gnu.version   0x00008a00       0x7c /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+
+.gnu.version_d  0x00008a7c        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+
+.gnu.version_r  0x00008a7c       0x60
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00008a7c       0x60 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+
+.rel.dyn        0x00008adc       0x60
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00008adc       0x58 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00008b34        0x8 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+                0x00008b3c                PROVIDE (__rel_iplt_start, .)
+ *(.rel.iplt)
+                0x00008b3c                PROVIDE (__rel_iplt_end, .)
+                0x00008b3c                PROVIDE (__rela_iplt_start, .)
+                0x00008b3c                PROVIDE (__rela_iplt_end, .)
+
+.rela.dyn       0x00008b3c        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                0x00008b3c                PROVIDE (__rel_iplt_start, .)
+                0x00008b3c                PROVIDE (__rel_iplt_end, .)
+                0x00008b3c                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+                0x00008b3c                PROVIDE (__rela_iplt_end, .)
+
+.rel.plt        0x00008b3c      0x180
+ *(.rel.plt)
+ .rel.plt       0x00008b3c      0x180 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x00008cbc        0xc
+ *(.init)
+ .init          0x00008cbc        0x8 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+                0x00008cbc                _init
+ .init          0x00008cc4        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crtn.o
+
+.plt            0x00008cc8      0x254
+ *(.plt)
+ .plt           0x00008cc8      0x254 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+                0x00008cdc                open@@GLIBC_2.4
+                0x00008ce8                mmap@@GLIBC_2.4
+                0x00008cf4                abort@@GLIBC_2.4
+                0x00008d00                pthread_attr_getschedparam@@GLIBC_2.4
+                0x00008d0c                pthread_exit@@GLIBC_2.4
+                0x00008d18                __libc_start_main@@GLIBC_2.4
+                0x00008d24                gcvt@@GLIBC_2.4
+                0x00008d30                pthread_attr_setschedpolicy@@GLIBC_2.4
+                0x00008d48                inet_addr@@GLIBC_2.4
+                0x00008d54                getenv@@GLIBC_2.4
+                0x00008d60                strtod@@GLIBC_2.4
+                0x00008d6c                sendto@@GLIBC_2.4
+                0x00008d78                memset@@GLIBC_2.4
+                0x00008d84                pthread_attr_setschedparam@@GLIBC_2.4
+                0x00008d90                perror@@GLIBC_2.4
+                0x00008d9c                free@@GLIBC_2.4
+                0x00008da8                read@@GLIBC_2.4
+                0x00008db4                gettimeofday@@GLIBC_2.4
+                0x00008dc0                pthread_mutex_unlock@@GLIBC_2.4
+                0x00008dcc                socket@@GLIBC_2.4
+                0x00008dd8                ioctl@@GLIBC_2.4
+                0x00008de4                pthread_mutex_lock@@GLIBC_2.4
+                0x00008df0                pthread_create@@GLIBC_2.4
+                0x00008dfc                memcpy@@GLIBC_2.4
+                0x00008e08                pthread_sigmask@@GLIBC_2.4
+                0x00008e14                printf@@GLIBC_2.4
+                0x00008e20                raise@@GLIBC_2.4
+                0x00008e2c                pthread_mutex_init@@GLIBC_2.4
+                0x00008e38                bind@@GLIBC_2.4
+                0x00008e44                strstr@@GLIBC_2.4
+                0x00008e50                close@@GLIBC_2.4
+                0x00008e5c                fwrite@@GLIBC_2.4
+                0x00008e68                malloc@@GLIBC_2.4
+                0x00008e74                pthread_attr_init@@GLIBC_2.4
+                0x00008e80                sleep@@GLIBC_2.4
+                0x00008e8c                sigfillset@@GLIBC_2.4
+                0x00008e98                getpid@@GLIBC_2.4
+                0x00008ea4                fcntl@@GLIBC_2.4
+                0x00008eb0                munmap@@GLIBC_2.4
+                0x00008ebc                nanosleep@@GLIBC_2.4
+                0x00008ec8                pthread_detach@@GLIBC_2.4
+                0x00008ed4                recvfrom@@GLIBC_2.4
+                0x00008ee0                exit@@GLIBC_2.4
+                0x00008eec                __errno_location@@GLIBC_2.4
+                0x00008ef8                pthread_self@@GLIBC_2.4
+                0x00008f04                pthread_join@@GLIBC_2.4
+                0x00008f10                getpagesize@@GLIBC_2.4
+
+.iplt
+ *(.iplt)
+
+.text           0x00008f1c    0x11618
+ *(.text.unlikely .text.*_unlikely)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00008f1c       0x3c /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+                0x00008f1c                _start
+ .text          0x00008f58       0x24 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+ .text          0x00008f7c       0x50 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+ .text          0x00008fcc       0x64 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+                0x00008fcc                __libc_csu_init
+                0x0000902c                __libc_csu_fini
+ .text          0x00009030      0x488 ./network/wifi.o
+                0x00009030                info
+                0x00009040                Udp_new
+                0x0000915c                Udp_destroy
+                0x00009188                Udp_Send
+                0x00009208                UdpReceiveParas_new
+                0x00009224                Udp_Receive_start
+                0x00009238                Udp_Send_start
+                0x0000924c                Wifisending_destroy
+                0x00009260                judgeIsIphoneSendCommond
+                0x000093ac                Udp_Receive
+ .text          0x000094b8      0x108 ./ipc/message_heap.o
+                0x000094b8                message_heap_new
+                0x00009598                message_heap_destroy
+                0x000095b8                message_heap_id
+ .text          0x000095c0      0x1ec ./ipc/message_queue.o
+                0x000095c0                message_queue_new
+                0x000096c8                message_queue_destroy
+                0x000096ec                msg_alloc
+                0x00009754                msg_free
+                0x00009758                push
+                0x0000977c                pop
+ .text          0x000097ac      0x410 ./ipc/ring_buffer_host.o
+                0x000097ac                RingBuffer_new
+                0x0000993c                RingBuffer_destroy
+                0x00009964                RingBuffer_acquired
+                0x00009a38                RingBuffer_release
+                0x00009aec                ipc_ring_buffer_check
+                0x00009b0c                ipc_ring_buffer_size_check
+ .text          0x00009bbc      0x268 ./app/app.o
+                0x00009bbc                App_create
+                0x00009d2c                App_exec
+                0x00009dbc                App_delete
+ .text          0x00009e24       0x44 ./app/controler.o
+                0x00009e24                Controler_new
+                0x00009e3c                Controler_send_cmd
+ .text          0x00009e68      0x718 ./app/phone_command.o
+                0x00009e68                PhoneCommand_new
+                0x00009ea8                PhoneCommand_destroy
+                0x00009eb8                PhoneCommand_rx_enqueue
+                0x00009ee4                PhoneCommand_rx_dequeue
+                0x00009f10                PhoneCommand_start
+                0x00009f20                PhoneCommand_Process
+ .text          0x0000a580      0x4a4 ./app/sample_receiver.o
+                0x0000a580                SampleReceiver_new
+                0x0000a5b0                SampleReceiver_destroy
+                0x0000a5c0                SampleReceiver_start
+                0x0000a5d0                SampleReceiver_stop
+                0x0000a5dc                wifisample_rx_enqueue
+                0x0000a61c                wifisample_rx_dequeue
+                0x0000a65c                SampleReceiver_run
+                0x0000a85c                Wifi_sending
+ .text          0x0000aa24      0x1c8 ./app/thread.o
+                0x0000aa24                Thread_new
+                0x0000aa74                Thread_destroy
+                0x0000aa94                set_priority
+                0x0000aadc                thread_start
+                0x0000abac                thread_join
+                0x0000abcc                thread_id
+                0x0000abd0                thread_is_runing_in
+ .text          0x0000abec      0x1c0 ./main.o
+                0x0000abec                main
+ .text          0x0000adac      0xe98 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                0x0000adec                SharedRegion_getPtr
+                0x0000ae5c                SharedRegion_getSRPtr
+                0x0000af10                SharedRegion_getCacheLineSize
+                0x0000af68                SharedRegion_isCacheEnabled
+                0x0000afc0                SharedRegion_translateEnabled
+                0x0000afd0                SharedRegion_getNumRegions
+                0x0000afe0                SharedRegion_entryInit
+                0x0000b030                SharedRegion_invalidSRPtr
+                0x0000b038                _SharedRegion_clearRegions
+                0x0000b124                SharedRegion_clearEntry
+                0x0000b1e8                SharedRegion_detach
+                0x0000b224                SharedRegion_attach
+                0x0000b260                SharedRegion_stop
+                0x0000b298                SharedRegion_start
+                0x0000b2d0                SharedRegion_getRegionInfo
+                0x0000b314                SharedRegion_getEntry
+                0x0000b370                _SharedRegion_setRegions
+                0x0000b4f0                SharedRegion_reserveMemory
+                0x0000b5b8                SharedRegion_getHeap
+                0x0000b630                SharedRegion_setEntry
+                0x0000b6f8                SharedRegion_getConfig
+                0x0000b734                SharedRegion_destroy
+                0x0000b83c                SharedRegion_setup
+                0x0000ba64                SharedRegion_getId
+                0x0000bb54                SharedRegion_getIdByName
+ .text          0x0000bc44      0x81c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                0x0000bc44                MessageQ_setReplyQueue
+                0x0000bc64                MessageQ_getQueueId
+                0x0000bc78                MessageQ_setMsgTrace
+                0x0000bc90                MessageQ_detach
+                0x0000bccc                MessageQ_unblock
+                0x0000bd14                MessageQ_unregisterHeap
+                0x0000bd54                MessageQ_registerHeap
+                0x0000bdb4                MessageQ_count
+                0x0000be0c                MessageQ_close
+                0x0000be70                MessageQ_Params_init
+                0x0000beb4                MessageQ_attach
+                0x0000bf08                MessageQ_sharedMemReq
+                0x0000bf68                MessageQ_free
+                0x0000bfe0                MessageQ_put
+                0x0000c060                MessageQ_alloc
+                0x0000c0c4                MessageQ_get
+                0x0000c16c                MessageQ_staticMsgInit
+                0x0000c1bc                MessageQ_open
+                0x0000c248                MessageQ_delete
+                0x0000c2d4                MessageQ_create
+                0x0000c378                MessageQ_destroy
+                0x0000c3c4                MessageQ_setup
+                0x0000c420                MessageQ_getConfig
+ .text          0x0000c460      0x798 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                0x0000c460                Ipc_runtimeId
+                0x0000c498                Ipc_writeConfig
+                0x0000c4c8                Ipc_readConfig
+                0x0000c4f8                Ipc_destroy
+                0x0000c784                Ipc_isAttached
+                0x0000c7d4                Ipc_getConfig
+                0x0000c880                Ipc_setup
+                0x0000caa8                Ipc_control
+ .text          0x0000cbf8     0x102c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                0x0000cbf8                RingIO_sharedMemReq
+                0x0000cc54                RingIO_flush
+                0x0000ccb4                RingIO_setvAttribute
+                0x0000cd1c                RingIO_getvAttribute
+                0x0000cd7c                RingIO_cancel
+                0x0000cdc0                RingIO_release
+                0x0000ce04                RingIO_setWaterMark
+                0x0000ce48                RingIO_getWaterMark
+                0x0000ce9c                RingIO_getAcquiredSize
+                0x0000cef0                RingIO_getAcquiredOffset
+                0x0000cf44                RingIO_getEmptyAttrSize
+                0x0000cf98                RingIO_getValidAttrSize
+                0x0000cfec                RingIO_getEmptySize
+                0x0000d040                RingIO_getValidSize
+                0x0000d094                RingIO_setNotifyType
+                0x0000d0d8                RingIO_Params_init
+                0x0000d11c                RingIO_sendNotify
+                0x0000d14c                RingIO_acquire
+                0x0000d1d0                RingIO_unregisterNotifier
+                0x0000d23c                RingIO_registerNotifier
+                0x0000d2f8                RingIO_close
+                0x0000d3c4                RingIO_delete
+                0x0000d484                RingIO_openByAddr
+                0x0000d624                RingIO_open
+                0x0000d798                RingIO_destroy
+                0x0000d7e4                RingIO_getConfig
+                0x0000d824                RingIO_setup
+                0x0000d89c                RingIO_setAttribute
+                0x0000d904                RingIO_getAttribute
+                0x0000d960                RingIO_create
+ .text          0x0000dc24      0x148 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                0x0000dc24                RingIOShm_Params_init
+                0x0000dc68                RingIOShm_destroy
+                0x0000dcb4                RingIOShm_getConfig
+                0x0000dcf4                RingIOShm_setup
+ .text          0x0000dd6c     0x16a8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                0x0000dd6c                FrameQ_ShMem_sharedMemReq
+                0x0000ddc0                FrameQ_Params_init
+                0x0000de0c                FrameQ_ShMem_Params_init
+                0x0000de5c                FrameQ_control
+                0x0000dea4                FrameQ_getvNumFreeFrames
+                0x0000df34                FrameQ_getNumFreeFrames
+                0x0000df88                FrameQ_getvNumFrames
+                0x0000e018                FrameQ_getNumFrames
+                0x0000e080                FrameQ_sendNotify
+                0x0000e0e0                FrameQ_dup
+                0x0000e158                FrameQ_unregisterNotifier
+                0x0000e228                FrameQ_registerNotifier
+                0x0000e354                FrameQ_get
+                0x0000e438                FrameQ_putv
+                0x0000e550                FrameQ_put
+                0x0000e61c                FrameQ_getv
+                0x0000e794                FrameQ_freev
+                0x0000e810                FrameQ_free
+                0x0000e85c                FrameQ_allocv
+                0x0000e8f0                FrameQ_alloc
+                0x0000e940                FrameQ_close
+                0x0000ea5c                FrameQ_delete
+                0x0000eb8c                FrameQ_open
+                0x0000ef24                FrameQ_create
+                0x0000f290                FrameQ_destroy
+                0x0000f318                FrameQ_getConfig
+                0x0000f358                FrameQ_setup
+ .text          0x0000f414     0x16a4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                0x0000f414                FrameQBufMgr_add
+                0x0000f41c                FrameQBufMgr_remove
+                0x0000f444                FrameQBufMgr_getId
+                0x0000f44c                FrameQBufMgr_getKnlHandle
+                0x0000f458                FrameQBufMgr_getBaseHeaderSize
+                0x0000f464                FrameQBufMgr_isSupportedInterface
+                0x0000f470                FrameQBufMgr_isSupportedBufInterface
+                0x0000f48c                FrameQBufMgr_Params_init
+                0x0000f4dc                FrameQBufMgr_ShMem_Params_init
+                0x0000f528                FrameQBufMgr_getvNumFreeFrames
+                0x0000f5bc                FrameQBufMgr_getNumFreeFrames
+                0x0000f60c                FrameQBufMgr_getHandle
+                0x0000f67c                FrameQBufMgr_translateAddr
+                0x0000f744                FrameQBufMgr_dup
+                0x0000f82c                FrameQBufMgr_free
+                0x0000f8d4                FrameQBufMgr_allocv
+                0x0000fa0c                FrameQBufMgr_alloc
+                0x0000facc                FrameQBufMgr_invalidate
+                0x0000fba8                FrameQBufMgr_invalidateFrameBuf
+                0x0000fc20                FrameQBufMgr_writeBack
+                0x0000fcec                FrameQBufMgr_writeBackFrameBuf
+                0x0000fd64                FrameQBufMgr_invalidateHeaderBuf
+                0x0000fddc                FrameQBufMgr_writeBackHeaderBuf
+                0x0000fe38                FrameQBufMgr_unregisterNotifier
+                0x0000fec4                FrameQBufMgr_registerNotifier
+                0x0000ff84                FrameQBufMgr_dupv
+                0x000100b8                FrameQBufMgr_freev
+                0x000101d4                FrameQBufMgr_open
+                0x000104ec                FrameQBufMgr_delete
+                0x000105f4                FrameQBufMgr_close
+                0x00010630                FrameQBufMgr_create
+                0x00010914                FrameQBufMgr_destroy
+                0x000109ac                FrameQBufMgr_getConfig
+                0x000109f8                FrameQBufMgr_setup
+ .text          0x00010ab8     0x1ba8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                0x00010ab8                ClientNotifyMgr_sharedMemModReq
+                0x00010ac0                ClientNotifyMgr_disableNotification
+                0x00010b7c                ClientNotifyMgr_enableNotification
+                0x00010c3c                ClientNotifyMgr_sendForceNotificationMulti
+                0x00010ea0                ClientNotifyMgr_sendNotificationMulti
+                0x00011204                ClientNotifyMgr_sendForceNotification
+                0x000113cc                ClientNotifyMgr_sendNotification
+                0x00011680                ClientNotifyMgr_unregisterClient
+                0x0001185c                ClientNotifyMgr_registerClient
+                0x00011aa0                ClientNotifyMgr_Params_init
+                0x00011ae4                ClientNotifyMgr_delete
+                0x00011ccc                ClientNotifyMgr_close
+                0x00011cd8                ClientNotifyMgr_sharedMemReq
+                0x00011d3c                ClientNotifyMgr_destroy
+                0x00011dc4                ClientNotifyMgr_getConfig
+                0x00011e04                ClientNotifyMgr_setup
+                0x00011f24                ClientNotifyMgr_callBack
+                0x00012224                ClientNotifyMgr_create
+                0x00012600                ClientNotifyMgr_open
+ .text          0x00012660      0x8e4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                0x00012660                HeapMemMP_getKnlHandle
+                0x00012690                HeapMemMP_restore
+                0x000126bc                HeapMemMP_sharedMemReq
+                0x0001270c                HeapMemMP_getExtendedStats
+                0x00012760                HeapMemMP_getStats
+                0x000127b4                HeapMemMP_Params_init
+                0x000127f4                _HeapMemMP_create
+                0x000128b4                HeapMemMP_close
+                0x00012950                HeapMemMP_delete
+                0x000129ec                HeapMemMP_free
+                0x00012a64                HeapMemMP_openByAddr
+                0x00012b04                HeapMemMP_alloc
+                0x00012b7c                HeapMemMP_open
+                0x00012c18                HeapMemMP_destroy
+                0x00012c64                HeapMemMP_setup
+                0x00012cbc                HeapMemMP_getConfig
+                0x00012cf8                HeapMemMP_getUsrHandle
+                0x00012de4                HeapMemMP_create
+ .text          0x00012f44      0x7ec /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                0x00012f44                HeapBufMP_isBlocking
+                0x00012f50                HeapBufMP_getKnlHandle
+                0x00012f80                _HeapBufMP_create
+                0x00013044                HeapBufMP_sharedMemReq
+                0x00013098                HeapBufMP_getExtendedStats
+                0x000130ec                HeapBufMP_getStats
+                0x00013140                HeapBufMP_close
+                0x000131e0                HeapBufMP_delete
+                0x00013280                HeapBufMP_Params_init
+                0x000132c4                HeapBufMP_free
+                0x0001333c                HeapBufMP_openByAddr
+                0x000133dc                HeapBufMP_alloc
+                0x00013454                HeapBufMP_open
+                0x000134f0                HeapBufMP_destroy
+                0x0001353c                HeapBufMP_setup
+                0x00013598                HeapBufMP_getConfig
+                0x000135d8                HeapBufMP_create
+ .text          0x00013730      0xa7c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+                0x00013730                GateMP_getLocalProtect
+                0x00013738                GateMP_getRemoteProtect
+                0x00013740                GateMP_getKnlHandle
+                0x00013780                GateMP_setReserved
+                0x000137ac                GateMP_getSharedAddr
+                0x000137e0                GateMP_getDefaultRemote
+                0x0001381c                GateMP_sharedMemReq
+                0x0001384c                GateMP_leave
+                0x000138b0                GateMP_enter
+                0x0001391c                GateMP_Instance_finalize
+                0x0001394c                GateMP_Params_init
+                0x000139a0                GateMP_close
+                0x00013aac                GateMP_openByAddr
+                0x00013bc8                GateMP_open
+                0x00013ce0                GateMP_Instance_init
+                0x00013d7c                GateMP_destroy
+                0x00013dfc                GateMP_setup
+                0x00013ec8                GateMP_getConfig
+                0x00013f14                GateMP_delete
+                0x00014020                _GateMP_create
+                0x00014120                GateMP_create
+ .text          0x000141ac      0x270 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                0x000141ac                SharedRegionDrv_ioctl
+                0x00014350                SharedRegionDrv_close
+                0x000143a0                SharedRegionDrv_open
+ .text          0x0001441c      0x130 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                0x0001441c                HeapBufMPDrv_ioctl
+                0x00014450                HeapBufMPDrv_close
+                0x000144a0                HeapBufMPDrv_open
+ .text          0x0001454c      0x138 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                0x0001454c                MessageQDrv_ioctl
+                0x00014580                MessageQDrv_close
+                0x000145d0                MessageQDrv_open
+ .text          0x00014684      0x114 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+                0x00014684                IpcDrv_ioctl
+                0x000146b8                IpcDrv_close
+                0x00014708                IpcDrv_open
+ .text          0x00014798       0xfc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                0x00014798                FrameQDrv_ioctl
+                0x000147cc                FrameQDrv_close
+                0x0001481c                FrameQDrv_open
+ .text          0x00014894       0xfc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                0x00014894                FrameQBufMgrDrv_ioctl
+                0x000148c8                FrameQBufMgrDrv_close
+                0x00014918                FrameQBufMgrDrv_open
+ .text          0x00014990       0xfc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+                0x00014990                ClientNotifyMgrDrv_ioctl
+                0x000149c4                ClientNotifyMgrDrv_close
+                0x00014a14                ClientNotifyMgrDrv_open
+ .text          0x00014a8c       0xfc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                0x00014a8c                RingIODrv_ioctl
+                0x00014ac0                RingIODrv_close
+                0x00014b10                RingIODrv_open
+ .text          0x00014b88       0xfc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                0x00014b88                RingIOShmDrv_ioctl
+                0x00014bbc                RingIOShmDrv_close
+                0x00014c0c                RingIOShmDrv_open
+ .text          0x00014c84      0x100 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                0x00014c84                HeapMemMPDrv_ioctl
+                0x00014cb8                HeapMemMPDrv_close
+                0x00014d08                HeapMemMPDrv_open
+ .text          0x00014d84      0x100 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                0x00014d84                GateMPDrv_ioctl
+                0x00014db8                GateMPDrv_close
+                0x00014e08                GateMPDrv_open
+ .text          0x00014e84        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+                0x00014e84                OsalProcess_getTid
+                0x00014e88                OsalProcess_getPid
+ .text          0x00014e8c      0x1fc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+                0x00014e8c                GateMutex_leave
+                0x00014e9c                GateMutex_enter
+                0x00014eac                GateMutex_Instance_finalize
+                0x00014ec8                GateMutex_Instance_init
+                0x00014f00                GateMutex_create
+                0x00014fb4                GateMutex_delete
+ .text          0x00015088      0x144 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+                0x00015088                Memory_getStats
+                0x000150a0                Memory_query
+                0x000150cc                Memory_getMaxDefaultTypeAlign
+                0x000150d4                Memory_translate
+                0x000150d8                Memory_alloc
+                0x0001510c                Memory_valloc
+                0x0001515c                Memory_free
+                0x00015188                Memory_calloc
+ .text          0x000151cc      0x2a0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+                0x000151cc                List_Params_init
+                0x000151d0                List_construct
+                0x000151e0                List_elemClear
+                0x000151f0                List_next
+                0x00015214                List_prev
+                0x00015238                List_insert
+                0x00015264                List_remove
+                0x00015288                List_dequeue
+                0x000152c0                List_enqueue
+                0x000152e8                List_enqueueHead
+                0x00015314                List_putHead
+                0x0001534c                List_put
+                0x00015388                List_get
+                0x000153c4                List_empty
+                0x000153f0                List_destruct
+                0x00015414                List_delete
+                0x00015444                List_create
+ .text          0x0001546c      0x34c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+                0x0001546c                String_cat
+                0x000154a0                String_cmp
+                0x00015584                String_ncmp
+                0x000155ec                String_cpy
+                0x00015608                String_ncpy
+                0x00015668                String_len
+                0x0001569c                String_hexToStr
+                0x0001572c                String_hash
+ .text          0x000157b8      0x8e0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                0x000157b8                NameServer_isRegistered
+                0x00015818                NameServer_removeEntry
+                0x00015878                NameServer_delete
+                0x000158dc                NameServer_Params_init
+                0x00015920                NameServer_match
+                0x000159a4                NameServer_getLocal
+                0x00015a54                NameServer_getLocalUInt32
+                0x00015ab4                NameServer_get
+                0x00015bbc                NameServer_getUInt32
+                0x00015c28                NameServer_remove
+                0x00015c98                NameServer_add
+                0x00015d28                NameServer_addUInt32
+                0x00015d74                NameServer_getHandle
+                0x00015df0                NameServer_open
+                0x00015e84                NameServer_create
+                0x00015f10                NameServer_close
+                0x00015f9c                NameServer_destroy
+                0x00015fe8                NameServer_setup
+                0x00016038                NameServer_getConfig
+ .text          0x00016098      0x344 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                0x00016098                MultiProc_getName
+                0x000160cc                MultiProc_getNumProcessors
+                0x000160dc                MultiProc_self
+                0x000160f0                MultiProc_getSlot
+                0x000161a4                MultiProc_getId
+                0x00016220                MultiProc_setLocalId
+                0x0001629c                MultiProc_destroy
+                0x000162e8                MultiProc_setup
+                0x0001637c                MultiProc_getConfig
+ .text          0x000163dc       0x48 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                0x000163dc                Gate_leaveSystem
+                0x000163f4                Gate_enterSystem
+ .text          0x00016424       0x38 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+                0x00016424                SysLink_destroy
+                0x00016434                SysLink_setup
+ .text          0x0001645c       0xd0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+                0x0001645c                Cache_setMode
+                0x00016488                Cache_wait
+                0x000164a8                Cache_wbInv
+                0x000164d4                Cache_wb
+                0x00016500                Cache_inv
+ .text          0x0001652c      0x130 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                0x0001652c                NameServerDrv_ioctl
+                0x00016560                NameServerDrv_close
+                0x000165b0                NameServerDrv_open
+ .text          0x0001665c       0xfc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                0x0001665c                MultiProcDrv_ioctl
+                0x00016690                MultiProcDrv_close
+                0x000166e0                MultiProcDrv_open
+ .text          0x00016758       0x1c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+                0x00016758                CacheDrv_ioctl
+ .text          0x00016774       0xd0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+                0x00016774                Dev_pollOpen
+ .text          0x00016844      0x708 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                0x00016844                MemoryOS_free
+                0x00016850                MemoryOS_alloc
+                0x00016854                MemoryOS_map
+                0x00016a04                MemoryOS_calloc
+                0x00016a28                MemoryOS_destroy
+                0x00016ae0                MemoryOS_setup
+                0x00016bc0                MemoryOS_translate
+                0x00016cf0                MemoryOS_set
+                0x00016d68                MemoryOS_copy
+                0x00016de4                MemoryOS_unmap
+ .text          0x00016f4c      0x234 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                0x00016f4c                OsalDrv_ioctl
+                0x00016f84                OsalDrv_unmap
+                0x00016fc8                OsalDrv_map
+                0x00017084                OsalDrv_close
+                0x000170e8                OsalDrv_open
+ .text          0x00017180       0xb4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+                0x00017180                OsalMutex_leave
+                0x0001718c                OsalMutex_enter
+                0x000171a4                OsalMutex_delete
+                0x000171ec                OsalMutex_create
+ .text          0x00017234     0x151c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                0x00017234                ProcMgr_translateAddr
+                0x00017314                ProcMgr_getMaxMemoryRegions
+                0x00017320                ProcMgr_getLoadedFileId
+                0x00017354                ProcMgr_getSectionData
+                0x000173ac                ProcMgr_getSectionInfo
+                0x00017404                ProcMgr_getProcInfo
+                0x00017454                ProcMgr_getSymbolAddress
+                0x000174c8                ProcMgr_control
+                0x00017504                ProcMgr_write
+                0x0001757c                ProcMgr_read
+                0x000175f4                ProcMgr_getState
+                0x00017638                ProcMgr_stop
+                0x0001766c                ProcMgr_start
+                0x000176a8                ProcMgr_getStartParams
+                0x000176dc                ProcMgr_unload
+                0x00017718                ProcMgr_getAttachParams
+                0x00017754                ProcMgr_delete
+                0x000177c8                ProcMgr_Params_init
+                0x00017804                ProcMgr_unmap
+                0x00017acc                ProcMgr_map
+                0x00017c30                ProcMgr_load
+                0x00017cf0                ProcMgr_close
+                0x00017e24                ProcMgr_open
+                0x00018024                ProcMgr_create
+                0x00018124                ProcMgr_setup
+                0x0001819c                ProcMgr_getConfig
+                0x000181d8                ProcMgr_destroy
+                0x00018354                ProcMgr_detach
+                0x0001851c                ProcMgr_attach
+ .text          0x00018750      0x1f8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                0x00018750                ProcMgrDrvUsr_close
+                0x000187a8                ProcMgrDrvUsr_open
+                0x0001882c                ProcMgrDrvUsr_ioctl
+ .text          0x00018948       0xf8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+                0x00018948                FrameQ_isSupportedInterface
+                0x00018954                FrameQ_getExtendedHeaderPtr
+                0x00018964                FrameQ_getNumFrameBuffers
+                0x00018970                FrameQ_getFrameBuffer
+                0x00018988                FrameQ_getFrameBufSize
+                0x000189a0                FrameQ_getFrameBufValidSize
+                0x000189b8                FrameQ_getFrameBufDataStartOffset
+                0x000189d0                FrameQ_setFrameBufValidSize
+                0x00018a08                FrameQ_setFrameBufDataStartOffset
+ .text          0x00018a40      0x7a4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                0x00018a40                Notify_enableEvent
+                0x00018ac8                Notify_disableEvent
+                0x00018b50                Notify_restore
+                0x00018ba0                Notify_disable
+                0x00018bf8                Notify_sendEvent
+                0x00018ca0                Notify_intLineRegistered
+                0x00018cf8                Notify_eventAvailable
+                0x00018d74                Notify_detach
+                0x00018d98                Notify_unregisterEvent
+                0x00018e48                Notify_unregisterEventSingle
+                0x00018ee8                Notify_registerEvent
+                0x00018fa0                Notify_registerEventSingle
+                0x00019058                Notify_sharedMemReq
+                0x00019090                Notify_attach
+                0x000190c4                Notify_destroy
+                0x00019114                Notify_setup
+                0x0001918c                Notify_getConfig
+ .text          0x000191e4      0x92c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                0x000191e4                ListMP_getGate
+                0x000191ec                _ListMP_create
+                0x00019240                ListMP_remove
+                0x000192b8                ListMP_insert
+                0x00019358                ListMP_putTail
+                0x000193d0                ListMP_putHead
+                0x00019448                ListMP_empty
+                0x0001949c                ListMP_openByAddr
+                0x00019530                ListMP_Params_init
+                0x00019570                ListMP_prev
+                0x000195e8                ListMP_next
+                0x00019660                ListMP_getTail
+                0x000196bc                ListMP_getHead
+                0x00019718                ListMP_close
+                0x0001979c                ListMP_delete
+                0x00019820                ListMP_open
+                0x000198bc                ListMP_sharedMemReq
+                0x00019934                ListMP_destroy
+                0x00019980                ListMP_setup
+                0x000199d8                ListMP_getConfig
+                0x00019a14                ListMP_create
+ .text          0x00019b10      0x384 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+                0x00019b10                _NotifyDrvUsr_eventWorker
+                0x00019c3c                NotifyDrvUsr_ioctl
+                0x00019c70                NotifyDrvUsr_close
+                0x00019d34                NotifyDrvUsr_open
+ .text          0x00019e94      0x100 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                0x00019e94                ListMPDrv_ioctl
+                0x00019ec8                ListMPDrv_close
+                0x00019f18                ListMPDrv_open
+ .text          0x00019f94      0x114 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+                0x00019f94                __udivsi3
+                0x00019f94                __aeabi_uidiv
+                0x0001a088                __aeabi_uidivmod
+ .text          0x0001a0a8      0x41c /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+                0x0001a0a8                __aeabi_drsub
+                0x0001a0b0                __subdf3
+                0x0001a0b0                __aeabi_dsub
+                0x0001a0b4                __adddf3
+                0x0001a0b4                __aeabi_dadd
+                0x0001a3c4                __aeabi_ui2d
+                0x0001a3c4                __floatunsidf
+                0x0001a3e8                __floatsidf
+                0x0001a3e8                __aeabi_i2d
+                0x0001a410                __aeabi_f2d
+                0x0001a410                __extendsfdf2
+                0x0001a450                __floatundidf
+                0x0001a450                __aeabi_ul2d
+                0x0001a464                __floatdidf
+                0x0001a464                __aeabi_l2d
+ .text          0x0001a4c4       0x5c /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+                0x0001a4c4                __fixdfsi
+                0x0001a4c4                __aeabi_d2iz
+ .text          0x0001a520       0x14 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+                0x0001a520                __aeabi_idiv0
+                0x0001a520                __aeabi_ldiv0
+ .text          0x0001a534        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtend.o
+ .text          0x0001a534        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crtn.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini           0x0001a534        0x8
+ *(.fini)
+ .fini          0x0001a534        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+                0x0001a534                _fini
+ .fini          0x0001a538        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crtn.o
+                0x0001a53c                PROVIDE (__etext, .)
+                0x0001a53c                PROVIDE (_etext, .)
+                0x0001a53c                PROVIDE (etext, .)
+
+.rodata         0x0001a53c     0x10c4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0001a53c        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+                0x0001a53c                _IO_stdin_used
+ .rodata        0x0001a540        0xc ./network/wifi.o
+ .rodata.str1.4
+                0x0001a54c       0xa7 ./network/wifi.o
+                                 0xa8 (size before relaxing)
+ *fill*         0x0001a5f3        0x1 00
+ .rodata        0x0001a5f4       0x14 ./ipc/message_heap.o
+ .rodata.str1.4
+                0x0001a608       0x5b ./ipc/message_heap.o
+                                 0x64 (size before relaxing)
+ *fill*         0x0001a663        0x1 00
+ .rodata        0x0001a664       0x20 ./ipc/message_queue.o
+ .rodata.str1.4
+                0x0001a684       0x9c ./ipc/message_queue.o
+ .rodata        0x0001a720       0x54 ./ipc/ring_buffer_host.o
+ .rodata.str1.4
+                0x0001a774      0x168 ./ipc/ring_buffer_host.o
+                                0x170 (size before relaxing)
+ .rodata.str1.4
+                0x0001a8dc       0x61 ./app/app.o
+                                 0x64 (size before relaxing)
+ *fill*         0x0001a93d        0x3 00
+ .rodata        0x0001a940       0x18 ./app/phone_command.o
+ .rodata.str1.4
+                0x0001a958       0xe4 ./app/phone_command.o
+                                 0xec (size before relaxing)
+ .rodata        0x0001aa3c       0x24 ./app/sample_receiver.o
+ .rodata.str1.4
+                0x0001aa60      0x11f ./app/sample_receiver.o
+                                0x130 (size before relaxing)
+ *fill*         0x0001ab7f        0x1 00
+ .rodata        0x0001ab80       0x10 ./app/thread.o
+ .rodata.str1.4
+                0x0001ab90       0x5c ./app/thread.o
+                                 0x64 (size before relaxing)
+ .rodata        0x0001abec       0x14 ./main.o
+ .rodata.str1.4
+                0x0001ac00       0xfb ./main.o
+                                0x110 (size before relaxing)
+ *fill*         0x0001acfb        0x1 00
+ .rodata.str1.4
+                0x0001acfc        0xa /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                                  0xc (size before relaxing)
+ .rodata.str1.4
+                0x00000000        0xa /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                                  0x8 (size before relaxing)
+ .rodata.str1.4
+                0x00000000        0xa /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                                 0x10 (size before relaxing)
+ *fill*         0x0001ad06        0x2 00
+ .rodata.str1.4
+                0x0001ad08       0x57 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                                 0x58 (size before relaxing)
+ *fill*         0x0001ad5f        0x1 00
+ .rodata.str1.4
+                0x0001ad60       0x36 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                                 0x38 (size before relaxing)
+ *fill*         0x0001ad96        0x2 00
+ .rodata.str1.4
+                0x0001ad98       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                                 0x34 (size before relaxing)
+ *fill*         0x0001adc9        0x3 00
+ .rodata.str1.4
+                0x0001adcc       0x28 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .rodata.str1.4
+                0x0001adf4       0x2f /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                                 0x30 (size before relaxing)
+ *fill*         0x0001ae23        0x1 00
+ .rodata.str1.4
+                0x0001ae24       0x39 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                                 0x3c (size before relaxing)
+ *fill*         0x0001ae5d        0x3 00
+ .rodata.str1.4
+                0x0001ae60       0x40 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .rodata.str1.4
+                0x0001aea0       0x2f /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                                 0x30 (size before relaxing)
+ *fill*         0x0001aecf        0x1 00
+ .rodata.str1.4
+                0x0001aed0       0x1a /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                                 0x34 (size before relaxing)
+ *fill*         0x0001aeea        0x2 00
+ .rodata.str1.4
+                0x0001aeec       0x36 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                                 0x38 (size before relaxing)
+ *fill*         0x0001af22        0x2 00
+ .rodata.str1.4
+                0x0001af24       0x2f /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                                 0x30 (size before relaxing)
+ *fill*         0x0001af53        0x1 00
+ .rodata        0x0001af54      0x400 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .rodata.str1.4
+                0x0001b354       0x11 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+                                 0x14 (size before relaxing)
+ *fill*         0x0001b365        0x3 00
+ .rodata.str1.4
+                0x0001b368       0x37 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                                 0x38 (size before relaxing)
+ *fill*         0x0001b39f        0x1 00
+ .rodata.str1.4
+                0x0001b3a0       0x36 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                                 0x38 (size before relaxing)
+ *fill*         0x0001b3d6        0x2 00
+ .rodata.str1.4
+                0x0001b3d8       0x71 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+                                 0x74 (size before relaxing)
+ *fill*         0x0001b449        0x3 00
+ .rodata.str1.4
+                0x0001b44c       0x6e /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                                 0x70 (size before relaxing)
+ *fill*         0x0001b4ba        0x2 00
+ .rodata.str1.4
+                0x0001b4bc       0x75 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                                 0x78 (size before relaxing)
+ *fill*         0x0001b531        0x3 00
+ .rodata.str1.4
+                0x0001b534       0x9b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+                                 0x9c (size before relaxing)
+ *fill*         0x0001b5cf        0x1 00
+ .rodata.str1.4
+                0x0001b5d0       0x30 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x0001b600        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0001b600        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .ARM.extab     0x0001b600        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                0x0001b600                __exidx_start = .
+
+.ARM.exidx      0x0001b600      0x9a0
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0001b600        0x8 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .ARM.exidx     0x0001b608       0x80 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                                 0xd8 (size before relaxing)
+ .ARM.exidx     0x0001b688       0x80 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                                 0xb8 (size before relaxing)
+ .ARM.exidx     0x0001b708       0x30 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                                 0x40 (size before relaxing)
+ .ARM.exidx     0x0001b738       0x88 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                                 0xf0 (size before relaxing)
+ .ARM.exidx     0x0001b7c0       0x18 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                                 0x20 (size before relaxing)
+ .ARM.exidx     0x0001b7d8       0xb8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                                 0xd8 (size before relaxing)
+ .ARM.exidx     0x0001b890       0xd8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                                0x110 (size before relaxing)
+ .ARM.exidx     0x0001b968       0x88 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                                 0x98 (size before relaxing)
+ .ARM.exidx     0x0001b9f0       0x58 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                                 0x90 (size before relaxing)
+ .ARM.exidx     0x0001ba48       0x58 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                                 0x88 (size before relaxing)
+ .ARM.exidx     0x0001baa0       0x78 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+                                 0xa8 (size before relaxing)
+ .ARM.exidx     0x0001bb18       0x18 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .ARM.exidx     0x0001bb30       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bb40       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bb50       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bb60       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bb70       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bb80       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bb90       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bba0       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bbb0        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bbb8        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bbb8        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+                                 0x10 (size before relaxing)
+ .ARM.exidx     0x0001bbc0       0x18 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+                                 0x30 (size before relaxing)
+ .ARM.exidx     0x0001bbd8       0x20 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+                                 0x40 (size before relaxing)
+ .ARM.exidx     0x0001bbf8       0x18 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+                                 0x88 (size before relaxing)
+ .ARM.exidx     0x0001bc10       0x38 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+                                 0x40 (size before relaxing)
+ .ARM.exidx     0x0001bc48       0x88 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                                 0x98 (size before relaxing)
+ .ARM.exidx     0x0001bcd0       0x38 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                                 0x48 (size before relaxing)
+ .ARM.exidx     0x0001bd08       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                                 0x20 (size before relaxing)
+ .ARM.exidx     0x0001bd18        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+                                 0x10 (size before relaxing)
+ .ARM.exidx     0x0001bd20        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+                                 0x28 (size before relaxing)
+ .ARM.exidx     0x0001bd28       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bd38       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001bd48        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .ARM.exidx     0x0001bd50        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .ARM.exidx     0x0001bd58       0x30 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                                 0x50 (size before relaxing)
+ .ARM.exidx     0x0001bd88       0x20 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                                 0x28 (size before relaxing)
+ .ARM.exidx     0x0001bda8       0x18 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+                                 0x20 (size before relaxing)
+ .ARM.exidx     0x0001bdc0       0xb8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                                 0xe8 (size before relaxing)
+ .ARM.exidx     0x0001be78       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0001be88       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+                                 0x48 (size before relaxing)
+ .ARM.exidx     0x0001be98       0x68 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                                 0x88 (size before relaxing)
+ .ARM.exidx     0x0001bf00       0x70 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                                 0xa8 (size before relaxing)
+ .ARM.exidx     0x0001bf70       0x20 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .ARM.exidx     0x0001bf90       0x10 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                                 0x18 (size before relaxing)
+                0x0001bfa0                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x0001bfa0                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x00024000                . = (0x8000 DATA_SEGMENT_ALIGN 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x00024000        0x0
+                0x00024000                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x00024000                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00024000        0x4
+                0x00024000                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00024000        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+                0x00024004                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00024004        0x4
+                0x00024004                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ .fini_array    0x00024004        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00024008                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x00024008        0x4
+ *(.jcr)
+ .jcr           0x00024008        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+ .jcr           0x00024008        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0002400c      0x100
+ *(.dynamic)
+ .dynamic       0x0002400c      0x100 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+                0x0002400c                _DYNAMIC
+                0x0002410c                . = (. DATA_SEGMENT_RELRO_END 0x0)
+
+.got            0x0002410c       0xf8
+ *(.got.plt)
+ .got.plt       0x0002410c       0xcc /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+                0x0002410c                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ *(.got)
+ .got           0x000241d8       0x2c /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+ *(.igot)
+
+.data           0x00024204       0x20
+                0x00024204                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00024204        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+                0x00024204                data_start
+                0x00024204                __data_start
+ .data          0x00024208        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+ .data          0x00024208        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+                0x00024208                __dso_handle
+ .data          0x0002420c        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .data          0x0002420c        0x0 ./network/wifi.o
+ .data          0x0002420c        0x0 ./ipc/message_heap.o
+ .data          0x0002420c        0x0 ./ipc/message_queue.o
+ .data          0x0002420c        0x0 ./ipc/ring_buffer_host.o
+ .data          0x0002420c        0x0 ./app/app.o
+ .data          0x0002420c        0x0 ./app/controler.o
+ .data          0x0002420c        0x0 ./app/phone_command.o
+ .data          0x0002420c        0x0 ./app/sample_receiver.o
+ .data          0x0002420c        0x0 ./app/thread.o
+ .data          0x0002420c        0x0 ./main.o
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .data          0x0002420c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .data          0x0002420c        0xc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                0x0002420c                Gate_systemObject
+                0x00024214                Gate_systemHandle
+ .data          0x00024218        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .data          0x00024218        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .data          0x00024218        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .data          0x00024218        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .data          0x00024218        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .data          0x00024218        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .data          0x00024218        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .data          0x00024218        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .data          0x0002421c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .data          0x0002421c        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .data          0x0002421c        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .data          0x00024220        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .data          0x00024220        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .data          0x00024220        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .data          0x00024220        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .data          0x00024224        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .data          0x00024224        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+ .data          0x00024224        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00024224        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+ .data          0x00024224        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+ .data          0x00024224        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtend.o
+ .data          0x00024224        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crtn.o
+
+.data1
+ *(.data1)
+                0x00024224                _edata = .
+                0x00024224                PROVIDE (edata, .)
+                0x00024224                __bss_start = .
+                0x00024224                __bss_start__ = .
+
+.bss            0x00024228    0x2f614
+ *(.dynbss)
+ *fill*         0x00024228        0x0 00
+ .dynbss        0x00024228        0x4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+                0x00024228                stderr@@GLIBC_2.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0002422c        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .bss           0x0002422c        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+ .bss           0x0002422c        0x1 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+ .bss           0x0002422d        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .bss           0x0002422d        0x3 ./network/wifi.o
+                0x0002422d                startReadWifiCommondData
+                0x0002422e                startReadWifiCommondDataFlag
+                0x0002422f                stopReadWifiCommondDataFlag
+ .bss           0x00024230        0x0 ./ipc/message_heap.o
+ .bss           0x00024230        0x0 ./ipc/message_queue.o
+ .bss           0x00024230        0x0 ./ipc/ring_buffer_host.o
+ .bss           0x00024230        0x0 ./app/app.o
+ .bss           0x00024230        0x0 ./app/controler.o
+ .bss           0x00024230        0x0 ./app/phone_command.o
+ .bss           0x00024230        0x4 ./app/sample_receiver.o
+                0x00024230                protect
+ .bss           0x00024234        0x0 ./app/thread.o
+ .bss           0x00024234        0x0 ./main.o
+ .bss           0x00024234      0x120 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .bss           0x00024354        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .bss           0x00024358       0x5c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                0x000243a8                SysLinkCfg_sysMemMap
+                0x000243b0                SysLink_params
+ .bss           0x000243b4        0xc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .bss           0x000243c0        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .bss           0x000243c8       0x20 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .bss           0x000243e8       0x20 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .bss           0x00024408    0x2d024 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .bss           0x0005142c        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .bss           0x00051430        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .bss           0x00051434       0x1c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .bss           0x00051450        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .bss           0x00051458        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .bss           0x00051460        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .bss           0x00051468        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .bss           0x00051470        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .bss           0x00051478        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .bss           0x00051480        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .bss           0x00051488        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .bss           0x00051490        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .bss           0x00051498        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .bss           0x000514a0        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .bss           0x000514a8        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .bss           0x000514a8        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .bss           0x000514ac        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .bss           0x000514ac        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .bss           0x000514ac        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .bss           0x000514ac        0xc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .bss           0x000514b8      0x298 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .bss           0x00051750       0x18 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                0x00051750                staticMutex
+ .bss           0x00051768        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .bss           0x00051768        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .bss           0x00051768        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .bss           0x00051770        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .bss           0x00051778        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .bss           0x00051778        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .bss           0x00051778       0x28 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .bss           0x000517a0        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .bss           0x000517a4        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .bss           0x000517a4       0x2c /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .bss           0x000517d0        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .bss           0x000517d4        0x0 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .bss           0x000517d4       0x14 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .bss           0x000517e8        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .bss           0x000517ec        0xc /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .bss           0x000517f8        0x8 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .bss           0x00051800        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+ .bss           0x00051800        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00051800        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00051800        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+ .bss           0x00051800        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtend.o
+ .bss           0x00051800        0x0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crtn.o
+ *(COMMON)
+ COMMON         0x00051800       0x34 ./app/app.o
+                0x00051800                Module
+ COMMON         0x00051834     0x2004 ./app/sample_receiver.o
+                0x00051834                samples
+                0x00052834                wifisample
+ COMMON         0x00053838        0x4 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                0x00053838                NameServer_Object
+                0x0005383c                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0005383c                _bss_end__ = .
+                0x0005383c                __bss_end__ = .
+                0x0005383c                . = ALIGN (0x4)
+                0x0005383c                . = ALIGN (0x4)
+                0x0005383c                __end__ = .
+                0x0005383c                _end = .
+                0x0005383c                PROVIDE (end, .)
+                0x0005383c                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x29 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .ARM.attributes
+                0x00000029       0x2b /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+ .ARM.attributes
+                0x00000054       0x32 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+ .ARM.attributes
+                0x00000086       0x2b /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x000000b1       0x2a ./network/wifi.o
+ .ARM.attributes
+                0x000000db       0x2a ./ipc/message_heap.o
+ .ARM.attributes
+                0x00000105       0x2a ./ipc/message_queue.o
+ .ARM.attributes
+                0x0000012f       0x2a ./ipc/ring_buffer_host.o
+ .ARM.attributes
+                0x00000159       0x2a ./app/app.o
+ .ARM.attributes
+                0x00000183       0x2a ./app/controler.o
+ .ARM.attributes
+                0x000001ad       0x2a ./app/phone_command.o
+ .ARM.attributes
+                0x000001d7       0x2a ./app/sample_receiver.o
+ .ARM.attributes
+                0x00000201       0x2a ./app/thread.o
+ .ARM.attributes
+                0x0000022b       0x2a ./main.o
+ .ARM.attributes
+                0x00000255       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .ARM.attributes
+                0x00000286       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .ARM.attributes
+                0x000002b7       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .ARM.attributes
+                0x000002e8       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .ARM.attributes
+                0x00000319       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .ARM.attributes
+                0x0000034a       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .ARM.attributes
+                0x0000037b       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .ARM.attributes
+                0x000003ac       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .ARM.attributes
+                0x000003dd       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .ARM.attributes
+                0x0000040e       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .ARM.attributes
+                0x0000043f       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .ARM.attributes
+                0x00000470       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .ARM.attributes
+                0x000004a1       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .ARM.attributes
+                0x000004d2       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .ARM.attributes
+                0x00000503       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .ARM.attributes
+                0x00000534       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .ARM.attributes
+                0x00000565       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .ARM.attributes
+                0x00000596       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .ARM.attributes
+                0x000005c7       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .ARM.attributes
+                0x000005f8       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .ARM.attributes
+                0x00000629       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .ARM.attributes
+                0x0000065a       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .ARM.attributes
+                0x0000068b       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .ARM.attributes
+                0x000006bc       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .ARM.attributes
+                0x000006ed       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .ARM.attributes
+                0x0000071e       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .ARM.attributes
+                0x0000074f       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .ARM.attributes
+                0x00000780       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .ARM.attributes
+                0x000007b1       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .ARM.attributes
+                0x000007e2       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .ARM.attributes
+                0x00000813       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .ARM.attributes
+                0x00000844       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .ARM.attributes
+                0x00000875       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .ARM.attributes
+                0x000008a6       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .ARM.attributes
+                0x000008d7       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .ARM.attributes
+                0x00000908       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .ARM.attributes
+                0x00000939       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .ARM.attributes
+                0x0000096a       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .ARM.attributes
+                0x0000099b       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .ARM.attributes
+                0x000009cc       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .ARM.attributes
+                0x000009fd       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .ARM.attributes
+                0x00000a2e       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .ARM.attributes
+                0x00000a5f       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .ARM.attributes
+                0x00000a90       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .ARM.attributes
+                0x00000ac1       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .ARM.attributes
+                0x00000af2       0x31 /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .ARM.attributes
+                0x00000b23       0x18 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000b3b       0x18 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000b53       0x18 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000b6b       0x18 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x00000b83       0x32 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtend.o
+ .ARM.attributes
+                0x00000bb5       0x2b /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crtn.o
+
+.comment        0x00000000      0x7e1
+ *(.comment)
+ .comment       0x00000000       0x27 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+                                 0x28 (size before relaxing)
+ .comment       0x00000000       0x28 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crti.o
+ .comment       0x00000000       0x28 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtbegin.o
+ .comment       0x00000000       0x28 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .comment       0x00000000       0x28 ./network/wifi.o
+ .comment       0x00000000       0x28 ./ipc/message_heap.o
+ .comment       0x00000000       0x28 ./ipc/message_queue.o
+ .comment       0x00000000       0x28 ./ipc/ring_buffer_host.o
+ .comment       0x00000000       0x28 ./app/app.o
+ .comment       0x00000000       0x28 ./app/controler.o
+ .comment       0x00000000       0x28 ./app/phone_command.o
+ .comment       0x00000000       0x28 ./app/sample_receiver.o
+ .comment       0x00000000       0x28 ./app/thread.o
+ .comment       0x00000000       0x28 ./main.o
+ .comment       0x00000027       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .comment       0x00000052       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .comment       0x0000007d       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .comment       0x000000a8       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .comment       0x000000d3       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .comment       0x000000fe       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .comment       0x00000129       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .comment       0x00000154       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .comment       0x0000017f       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .comment       0x000001aa       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .comment       0x000001d5       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .comment       0x00000200       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .comment       0x0000022b       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .comment       0x00000256       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .comment       0x00000281       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .comment       0x000002ac       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .comment       0x000002d7       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .comment       0x00000302       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .comment       0x0000032d       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .comment       0x00000358       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .comment       0x00000383       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .comment       0x000003ae       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .comment       0x000003d9       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .comment       0x00000404       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .comment       0x0000042f       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .comment       0x0000045a       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .comment       0x00000485       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .comment       0x000004b0       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .comment       0x000004db       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .comment       0x00000506       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .comment       0x00000531       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .comment       0x0000055c       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .comment       0x00000587       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .comment       0x000005b2       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .comment       0x000005dd       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .comment       0x00000608       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .comment       0x00000633       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .comment       0x0000065e       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .comment       0x00000689       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .comment       0x000006b4       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .comment       0x000006df       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .comment       0x0000070a       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .comment       0x00000735       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .comment       0x00000760       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .comment       0x0000078b       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .comment       0x000007b6       0x2b /home/tl/shareSAMBA/LIB/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .comment       0x00000000       0x28 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/crtend.o
+ .comment       0x00000000       0x28 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_aranges
+                0x00000020       0x20 ./network/wifi.o
+ .debug_aranges
+                0x00000040       0x20 ./ipc/message_heap.o
+ .debug_aranges
+                0x00000060       0x20 ./ipc/message_queue.o
+ .debug_aranges
+                0x00000080       0x20 ./ipc/ring_buffer_host.o
+ .debug_aranges
+                0x000000a0       0x20 ./app/app.o
+ .debug_aranges
+                0x000000c0       0x20 ./app/controler.o
+ .debug_aranges
+                0x000000e0       0x20 ./app/phone_command.o
+ .debug_aranges
+                0x00000100       0x20 ./app/sample_receiver.o
+ .debug_aranges
+                0x00000120       0x20 ./app/thread.o
+ .debug_aranges
+                0x00000140       0x20 ./main.o
+ .debug_aranges
+                0x00000160       0x20 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x00000180       0x20 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x000001a0       0x20 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+ .debug_aranges
+                0x000001c0       0x20 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+
+.debug_pubnames
+                0x00000000      0x5b7
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x25 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .debug_pubnames
+                0x00000025       0x3a /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_pubnames
+                0x0000005f      0x128 ./network/wifi.o
+ .debug_pubnames
+                0x00000187       0x54 ./ipc/message_heap.o
+ .debug_pubnames
+                0x000001db       0x6e ./ipc/message_queue.o
+ .debug_pubnames
+                0x00000249       0xa4 ./ipc/ring_buffer_host.o
+ .debug_pubnames
+                0x000002ed       0x48 ./app/app.o
+ .debug_pubnames
+                0x00000335       0x3b ./app/controler.o
+ .debug_pubnames
+                0x00000370       0xa8 ./app/phone_command.o
+ .debug_pubnames
+                0x00000418       0xf8 ./app/sample_receiver.o
+ .debug_pubnames
+                0x00000510       0x8c ./app/thread.o
+ .debug_pubnames
+                0x0000059c       0x1b ./main.o
+
+.debug_info     0x00000000     0x5364
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x8e /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .debug_info    0x0000008e      0x12f /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_info    0x000001bd      0x94f ./network/wifi.o
+ .debug_info    0x00000b0c      0x5d2 ./ipc/message_heap.o
+ .debug_info    0x000010de      0x6da ./ipc/message_queue.o
+ .debug_info    0x000017b8      0x7f0 ./ipc/ring_buffer_host.o
+ .debug_info    0x00001fa8      0x930 ./app/app.o
+ .debug_info    0x000028d8      0x528 ./app/controler.o
+ .debug_info    0x00002e00      0xa03 ./app/phone_command.o
+ .debug_info    0x00003803      0xaf0 ./app/sample_receiver.o
+ .debug_info    0x000042f3      0x5dc ./app/thread.o
+ .debug_info    0x000048cf      0x40b ./main.o
+ .debug_info    0x00004cda      0x1a3 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+ .debug_info    0x00004e7d      0x1a2 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0000501f      0x1a2 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+ .debug_info    0x000051c1      0x1a3 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+
+.debug_abbrev   0x00000000     0x1270
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x44 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .debug_abbrev  0x00000044       0xd6 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_abbrev  0x0000011a      0x200 ./network/wifi.o
+ .debug_abbrev  0x0000031a      0x16e ./ipc/message_heap.o
+ .debug_abbrev  0x00000488      0x1d9 ./ipc/message_queue.o
+ .debug_abbrev  0x00000661      0x19b ./ipc/ring_buffer_host.o
+ .debug_abbrev  0x000007fc      0x182 ./app/app.o
+ .debug_abbrev  0x0000097e      0x151 ./app/controler.o
+ .debug_abbrev  0x00000acf      0x1fc ./app/phone_command.o
+ .debug_abbrev  0x00000ccb      0x248 ./app/sample_receiver.o
+ .debug_abbrev  0x00000f13      0x1b9 ./app/thread.o
+ .debug_abbrev  0x000010cc      0x154 ./main.o
+ .debug_abbrev  0x00001220       0x14 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x00001234       0x14 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x00001248       0x14 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+ .debug_abbrev  0x0000125c       0x14 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+
+.debug_line     0x00000000     0x5aea
+ *(.debug_line)
+ .debug_line    0x00000000      0x2af /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .debug_line    0x000002af      0x1b4 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_line    0x00000463      0x8c3 ./network/wifi.o
+ .debug_line    0x00000d26      0x62c ./ipc/message_heap.o
+ .debug_line    0x00001352      0x767 ./ipc/message_queue.o
+ .debug_line    0x00001ab9      0x757 ./ipc/ring_buffer_host.o
+ .debug_line    0x00002210      0xa8c ./app/app.o
+ .debug_line    0x00002c9c      0x5cb ./app/controler.o
+ .debug_line    0x00003267      0xb53 ./app/phone_command.o
+ .debug_line    0x00003dba      0xad4 ./app/sample_receiver.o
+ .debug_line    0x0000488e      0x565 ./app/thread.o
+ .debug_line    0x00004df3      0x83d ./main.o
+ .debug_line    0x00005630      0x106 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+ .debug_line    0x00005736      0x1e2 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x00005918       0xf2 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_arm_fixdfsi.o)
+ .debug_line    0x00005a0a       0xe0 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_dvmd_lnx.o)
+
+.debug_frame    0x00000000      0x640
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_frame   0x00000044      0x108 ./network/wifi.o
+ .debug_frame   0x0000014c       0x58 ./ipc/message_heap.o
+ .debug_frame   0x000001a4       0xa8 ./ipc/message_queue.o
+ .debug_frame   0x0000024c       0xc0 ./ipc/ring_buffer_host.o
+ .debug_frame   0x0000030c       0x68 ./app/app.o
+ .debug_frame   0x00000374       0x44 ./app/controler.o
+ .debug_frame   0x000003b8       0x98 ./app/phone_command.o
+ .debug_frame   0x00000450       0xe0 ./app/sample_receiver.o
+ .debug_frame   0x00000530       0xbc ./app/thread.o
+ .debug_frame   0x000005ec       0x34 ./main.o
+ .debug_frame   0x00000620       0x20 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../lib/gcc/arm-arago-linux-gnueabi/4.5.3/libgcc.a(_udivsi3.o)
+
+.debug_str      0x00000000     0x1505
+ *(.debug_str)
+ .debug_str     0x00000000       0xf6 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+                                0x136 (size before relaxing)
+ .debug_str     0x000000f6       0x65 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+                                0x113 (size before relaxing)
+ .debug_str     0x0000015b      0x55a ./network/wifi.o
+                                0x658 (size before relaxing)
+ .debug_str     0x000006b5      0x189 ./ipc/message_heap.o
+                                0x430 (size before relaxing)
+ .debug_str     0x0000083e      0x188 ./ipc/message_queue.o
+                                0x481 (size before relaxing)
+ .debug_str     0x000009c6      0x423 ./ipc/ring_buffer_host.o
+                                0x6e2 (size before relaxing)
+ .debug_str     0x00000de9      0x3e4 ./app/app.o
+                                0x927 (size before relaxing)
+ .debug_str     0x000011cd       0x44 ./app/controler.o
+                                0x3ae (size before relaxing)
+ .debug_str     0x00001211       0xbd ./app/phone_command.o
+                                0x868 (size before relaxing)
+ .debug_str     0x000012ce      0x13b ./app/sample_receiver.o
+                                0x7e3 (size before relaxing)
+ .debug_str     0x00001409       0xe2 ./app/thread.o
+                                0x3c4 (size before relaxing)
+ .debug_str     0x000014eb       0x1a ./main.o
+                                0x2c5 (size before relaxing)
+
+.debug_loc      0x00000000     0x11ef
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x99 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_loc     0x00000099      0x29b ./network/wifi.o
+ .debug_loc     0x00000334       0xb9 ./ipc/message_heap.o
+ .debug_loc     0x000003ed      0x1cf ./ipc/message_queue.o
+ .debug_loc     0x000005bc      0x257 ./ipc/ring_buffer_host.o
+ .debug_loc     0x00000813       0x9d ./app/app.o
+ .debug_loc     0x000008b0       0xb8 ./app/controler.o
+ .debug_loc     0x00000968      0x34d ./app/phone_command.o
+ .debug_loc     0x00000cb5      0x2ae ./app/sample_receiver.o
+ .debug_loc     0x00000f63      0x1ec ./app/thread.o
+ .debug_loc     0x0000114f       0xa0 ./main.o
+
+.debug_macinfo  0x00000000    0x86d8d
+ *(.debug_macinfo)
+ .debug_macinfo
+                0x00000000     0x56f9 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .debug_macinfo
+                0x000056f9     0x3bac /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_macinfo
+                0x000092a5     0xf966 ./network/wifi.o
+ .debug_macinfo
+                0x00018c0b     0x8cf9 ./ipc/message_heap.o
+ .debug_macinfo
+                0x00021904     0xdcac ./ipc/message_queue.o
+ .debug_macinfo
+                0x0002f5b0     0xa39e ./ipc/ring_buffer_host.o
+ .debug_macinfo
+                0x0003994e     0xe811 ./app/app.o
+ .debug_macinfo
+                0x0004815f     0x89f8 ./app/controler.o
+ .debug_macinfo
+                0x00050b57     0xe502 ./app/phone_command.o
+ .debug_macinfo
+                0x0005f059     0xf266 ./app/sample_receiver.o
+ .debug_macinfo
+                0x0006e2bf     0xcc61 ./app/thread.o
+ .debug_macinfo
+                0x0007af20     0xbe6d ./main.o
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+                0x00000000      0xf4a
+ *(.debug_pubtypes)
+ .debug_pubtypes
+                0x00000000       0x12 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/crt1.o
+ .debug_pubtypes
+                0x00000012       0x1d /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_pubtypes
+                0x0000002f      0x190 ./network/wifi.o
+ .debug_pubtypes
+                0x000001bf      0x195 ./ipc/message_heap.o
+ .debug_pubtypes
+                0x00000354      0x15b ./ipc/message_queue.o
+ .debug_pubtypes
+                0x000004af      0x239 ./ipc/ring_buffer_host.o
+ .debug_pubtypes
+                0x000006e8      0x215 ./app/app.o
+ .debug_pubtypes
+                0x000008fd       0xfb ./app/controler.o
+ .debug_pubtypes
+                0x000009f8      0x1fa ./app/phone_command.o
+ .debug_pubtypes
+                0x00000bf2      0x21f ./app/sample_receiver.o
+ .debug_pubtypes
+                0x00000e11       0xb7 ./app/thread.o
+ .debug_pubtypes
+                0x00000ec8       0x82 ./main.o
+
+.debug_ranges   0x00000000       0xe8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 /home/tl/ti/mcsdk_1_01_00_02/linux-devkit/sysroots/i686-arago-linux/usr/bin/../arm-arago-linux-gnueabi/usr/lib/arm-arago-linux-gnueabi/4.5.3/./libc_nonshared.a(elf-init.oS)
+ .debug_ranges  0x00000018       0x28 ./network/wifi.o
+ .debug_ranges  0x00000040       0x18 ./ipc/ring_buffer_host.o
+ .debug_ranges  0x00000058       0x38 ./app/phone_command.o
+ .debug_ranges  0x00000090       0x28 ./app/sample_receiver.o
+ .debug_ranges  0x000000b8       0x30 ./main.o
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(MINILOC elf32-littlearm)
